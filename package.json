@@ -1,0 +1,23 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "Simple SCSS Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joebailey26/Grid.git"
+  },
+  "keywords": [
+    "SCSS",
+    "Grid"
+  ],
+  "author": "Joe Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joebailey26/Grid/issues"
+  },
+  "homepage": "https://github.com/joebailey26/Grid#readme"
+}
