@@ -12,7 +12,7 @@
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 950px) {
   .GridContainer {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
