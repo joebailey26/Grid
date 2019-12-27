@@ -3,3 +3,9 @@
     grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
     grid-gap: 0 100px;
 }
+
+@media (max-width: 700px) {
+    .GridContainer {
+        grid-template-columns: 1fr;
+    }
+}
