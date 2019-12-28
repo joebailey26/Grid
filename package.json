@@ -1,6 +1,6 @@
 {
   "name": "grid",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "Simple SCSS Grid",
   "repository": {
     "type": "git",
@@ -11,7 +11,6 @@
     "Grid"
   ],
   "author": "Joe Bailey",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/joebailey26/Grid/issues"
   },
